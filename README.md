@@ -1,2 +1,2 @@
 # 💫 About Me
-Data engineering at ISEN Lille
+Data engineering student at ISEN Lille
